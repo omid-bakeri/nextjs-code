@@ -1,0 +1,17 @@
+body {
+  padding: 0;
+  margin-left: 5rem;
+  padding-top: 10px;
+  font-family: sans-serif;
+  color: white;
+  background-color: black;
+  font-size: 2rem;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
